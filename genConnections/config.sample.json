@@ -1,0 +1,6 @@
+{
+  "AUTH0_DOMAIN": "mytenant.auth0.com",
+  "SPRING_APP_CLIENT_ID": "my client ID for springApp",
+  "GEN_CONNECTIONS_CLIENT_ID": "my client ID for genConnections",
+  "GEN_CONNECTIONS_CLIENT_SECRET": "my client secret for genConnections"
+}
